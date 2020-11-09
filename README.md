@@ -1,4 +1,4 @@
-# HR Attrition Machine Learning
+# HR Attrition Analysis and Machine Learning
 
 ![enter image description here](https://github.com/rgangur/DS/blob/main/hqdefault.jpg?raw=true)
 
@@ -8,6 +8,8 @@ Employees are the backbone of any organization.  Impact of Attrition in an organ
  - Loss of experienced employees.
  - Negatively affect productivity/profit.
  - Increase in training cost.
+ 
+ 
 Problem Statement: 
  - What factors are contributing more to employee attrition?
  - What type of measures should the company take in order to retain their employees? 
